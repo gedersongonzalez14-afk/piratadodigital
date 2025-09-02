@@ -1,0 +1,23 @@
+HTTrack3.49-2+htsswf+htsjava launched on Mon, 01 Sep 2025 21:54:50 at https://piratadigital.com.br/?fbclid=PAdGRjcAMbQc5leHRuA2FlbQIxMQABp-ajSz7AodUqXAwH3nSN1kLxraDoM3E90MYvw_Ruh7GxxBHcEX-xdiawdMQo_aem_mgvb_oWbBROUTRiaH_ii-g +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qYC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" -Y https://piratadigital.com.br/?fbclid=PAdGRjcAMbQc5leHRuA2FlbQIxMQABp-ajSz7AodUqXAwH3nSN1kLxraDoM3E90MYvw_Ruh7GxxBHcEX-xdiawdMQo_aem_mgvb_oWbBROUTRiaH_ii-g -%L https://piratadigital.com.br/?fbclid=PAdGRjcAMbQc5leHRuA2FlbQIxMQABp-ajSz7AodUqXAwH3nSN1kLxraDoM3E90MYvw_Ruh7GxxBHcEX-xdiawdMQo_aem_mgvb_oWbBROUTRiaH_ii-g -O1 "C:\Meus Sites\pirata do digital" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+21:54:50	Error: 	Could not include URL list: https://piratadigital.com.br/?fbclid=PAdGRjcAMbQc5leHRuA2FlbQIxMQABp-ajSz7AodUqXAwH3nSN1kLxraDoM3E90MYvw_Ruh7GxxBHcEX-xdiawdMQo_aem_mgvb_oWbBROUTRiaH_ii-g
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/signals/config/ (from https://connect.facebook.net/en_US/fbevents.js)
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/a (from https://connect.facebook.net/en_US/fbevents.js)
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/signals/plugins/ (from https://connect.facebook.net/en_US/fbevents.js)
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/POST (from https://connect.facebook.net/en_US/fbevents.js)
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/schema.org/ (from https://connect.facebook.net/en_US/fbevents.js)
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/b.resolvedLink (from https://connect.facebook.net/en_US/fbevents.js)
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/d (from https://connect.facebook.net/en_US/fbevents.js)
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/signals/iwl.js (from https://connect.facebook.net/en_US/fbevents.js)
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/signals/iwl.js?pixel_id= (from https://connect.facebook.net/en_US/fbevents.js)
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/c.dl (from https://connect.facebook.net/en_US/fbevents.js)
+21:55:14	Error: 	"Not Found" (404) at link https://piratadigital.com.br/c.rl (from https://connect.facebook.net/en_US/fbevents.js)
+
+HTTrack Website Copier/3.49-2 mirror complete in 29 seconds : 65 links scanned, 51 files written (5036632 bytes overall) [3373447 bytes received at 116325 bytes/sec], 3555702 bytes transferred using HTTP compression in 38 files, ratio 35%, 1.7 requests per connection
+(12 errors, 0 warnings, 0 messages)
